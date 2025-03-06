@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DCComicsMar62025": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7113",
+      "launchBrowser": false
+    }
+  }
+}
